@@ -15,7 +15,7 @@ I help systems stay **reliable, observable, and scalable** in mission-critical e
 | **Containerization & Orchestration** | MosaiX (similar to OpenShift/Kubernetes), Docker                        |  
 | **Observability & Monitoring**       | ELK Stack (Elasticsearch, Logstash, Kibana), Zabbix, rsyslog, Splunk    |  
 | **Messaging & Event Systems**        | AMQP (1.0 & 0.9), MQTT, RabbitMQ, ActiveMQ                              |  
-| **Cloud Platforms**                  | AWS (EC2, IAM, S3), Azure (studying for Solutions Architect)            |  
+| **Cloud Platforms**                  | AWS, Azure                                                              |  
 | **Virtualization & Remote Access**   | Enterprise KVM (IHSE)                                                   |  
 | **Databases**                        | PostgreSQL, MySQL                                                       |  
 | **Reliability Practices**            | Incident Management (on-call, RCA, postmortems), SLO/SLI, error budgets |  
